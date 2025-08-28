@@ -13,4 +13,47 @@
     .logo img {
       max-width: 80px;
     }
-    
+    .center {
+      text-align: center;
+    }
+    .bold {
+      font-weight: bold;
+    }
+    hr {
+      border: 0;
+      border-top: 1px dashed #000;
+      margin: 5px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 5px;
+      font-size: 13px;
+    }
+    th, td {
+      text-align: center;
+      padding: 2px 0;
+    }
+    th {
+      border-bottom: 1px solid #000;
+    }
+    .totales {
+      margin-top: 10px;
+    }
+    .totales td {
+      text-align: right;
+      padding: 2px 0;
+    }
+    .footer {
+      text-align: center;
+      font-size: 12px;
+      margin-top: 10px;
+    }
+    .qr {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .qr img {
+      width: 80px;
+    }
+  
